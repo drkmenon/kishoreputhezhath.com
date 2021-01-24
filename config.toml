@@ -11,7 +11,7 @@ timeout=3000
   subtitle= "Professor (Associate)"
   interests="Paediatric Orthopaedics, Medical Education, Biomedical research "
   cv_name= ""
-  blog="https://knotes.co.in"
+  blog="https://www.knotes.co.in/#posts"
 
 [[params.affilation]]
   name = "KUHS University"
