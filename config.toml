@@ -7,14 +7,14 @@ timeout=3000
 
 [params]
   subtitle= "Professor (Associate)"
-  interests="Deep Reinforcement Learning, Machine Learning "
+  interests="Paediatric Orthopaedics, Medical Education, Biomedical research "
   cv_name= ""
   blog="https//www.knotes.co.in"
 
 [[params.affilation]]
   name = "KUHS University"
   position = "Professor (Associate)"
-  contact = "hadi@cs.stanford.edu"
+  contact = ""
 
 [[params.affilation]]
   name = "knotes.co.in"
@@ -33,24 +33,16 @@ timeout=3000
 
 
 [[params.social]]
-  name = "LinkedIn"
-  icon = "linkedin"
-  url = "https://linkedin.com/in/hadisinaee/"
+  name = "facebook"
+  icon = "facebook"
+  url = "https://facebook.com/drkmenon"
   
 
 
 [[params.introduction.paragraph]]
-  text="""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-	 Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Integer feugiat scelerisque varius morbi enim.
-	  A diam maecenas sed enim ut sem viverra. Orci eu lobortis elementum nibh tellus.
-		Egestas sed sed risus pretium quam vulputate dignissim suspendisse in.
-		Accumsan sit amet nulla facilisi morbi tempus iaculis urna. Condimentum lacinia quis vel eros donec.
+  text="""
    """
 [[params.introduction.paragraph]]
-  text=""" Pellentesque nec nam aliquam sem et tortor consequat id porta.
-	Viverra suspendisse potenti nullam ac. Leo vel orci porta non pulvinar neque laoreet.
-	Nulla facilisi nullam vehicula ipsum a arcu. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse.
-	Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dui sapien eget mi proin sed libero.
-	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
+  text=""" 
   """
 
